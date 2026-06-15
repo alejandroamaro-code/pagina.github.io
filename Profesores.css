@@ -1,0 +1,22 @@
+/* CSS Document */
+	table{
+	width:60%;
+	border-colapse:collapse;
+	margin:auto;
+	font-family:Arial;
+	}
+	
+	th{
+	background-color:blue;
+	color:white;
+	padding:10px
+	}
+	
+	td{
+	border:1px solid black;
+	padding:10px;
+	text-aling:center;
+	
+	tr:hover{
+	background-color:lightgray:
+	}
